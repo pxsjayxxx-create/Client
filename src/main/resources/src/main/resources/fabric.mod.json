@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "id": "chavixq-client",
-  "version": "0.1.0",
-  "name": "ChaviXQ Client",
-  "environment": "client",
-  "entrypoints": { "client": ["dev.chavixq.client.ChaviClient"] },
-  "depends": { "fabricloader": ">=0.17.2", "minecraft": "1.21.10", "fabric-api": "*", "java": ">=21" }
-}
